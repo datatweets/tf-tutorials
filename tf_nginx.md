@@ -248,4 +248,4 @@ Once you’re comfortable, try:
 
 Congratulations! You’ve successfully built and managed an Nginx Docker container using Terraform. This tutorial introduced you to Terraform’s core concepts and demonstrated how to automate infrastructure provisioning.
 
-Continue exploring Terraform to work with more complex infrastructures, including cloud services and advanced configurations. Let me know if you'd like additional in-depth examples or advanced topics!
+Continue exploring Terraform to work with more complex infrastructures, including cloud services and advanced configurations.
